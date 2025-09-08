@@ -1,0 +1,12 @@
+{
+  "name": "1dv610",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "live-server --open=./index.html"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
